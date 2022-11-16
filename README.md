@@ -1,2 +1,1 @@
-# ETL-Project
-Extracted Transformed and Loaded information about DND (Dungeons and Dragons)
+# Project 2: Extract Transform Load
