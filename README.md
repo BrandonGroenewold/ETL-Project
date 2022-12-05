@@ -1,4 +1,4 @@
-# Project 2: Extract Transform Load
+# Extract Transform Load
 
 ### Overview
 We performed the ETL process using two datasets gathered from Kaggle and Wikipedia. To perform this process, we were required to make use of Pandas, SQLAlchemy, BeautifulSoup, and a few more Python libraries. The two datasets were a CSV downloaded from Kaggle and information scraped from a Wikipedia article. This data was cleaned then transformed using mostly Pandas and stored into two corresponding DataFrames. Once the data was ready for use, the database was created in pgAdmin4 along with its two constituent tables. We then used SQLAlchemy to transfer the DataFrame content into the tables and perform a cursory `inner join` as proof future analysis was possible.
