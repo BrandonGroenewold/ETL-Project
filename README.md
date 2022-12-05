@@ -52,5 +52,5 @@ postgresql_key = "your PostgreSQL/pgAdmin4 password"
 postgresql_port = your PostgreSQL/pgAdmin4 port, typically 5432
 postgresql_host = "your host name, typically localhost"
 postgresql_db = "dnd_db"
-postgresql_user = "your PostgreSQL user, typically postgres"
+postgresql_user = "your PostgreSQL user, typically postgres" 
 ```
